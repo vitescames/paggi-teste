@@ -46,6 +46,12 @@ class CartaoCreditoController extends Controller {
         $cartao = $this->paggi
         ->cartoesCredito()
         ->addCreditCard($_POST['card_number'], $_POST['cvv_card'], $_POST['holder_card']);
+
+        $location = $cartao->getHeader('location')[0];
+        $locationArray = explode('/', $location);
+        $idCriado = end($locationArray);
+
+        echo $idCriado;
     }
 
     public function deletarCartaoCreditoAction(){

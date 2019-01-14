@@ -34,12 +34,16 @@ $("#form_search_credit_card").submit(function(e){
         method: "get",
         data: data,
         success: function (retorno) {
-            var obj = JSON.parse(retorno);
-            $("#number").val(obj.number);
-            $("#holder").val(obj.holderName);
-            $("#cvv").val(obj.cvv);
-
-            $("#form_update_credit_card").css("display", "initial");
+            if(retorno != 'null'){
+                var obj = JSON.parse(retorno);
+                $("#number").val(obj.number);
+                $("#holder").val(obj.holderName);
+                $("#cvv").val(obj.cvv);
+    
+                $("#form_update_credit_card").css("display", "initial");
+            } else{
+                alert('Esse ID não existe, confira a lista dos cartões caso necessário.');
+            }
         }
     });
 
