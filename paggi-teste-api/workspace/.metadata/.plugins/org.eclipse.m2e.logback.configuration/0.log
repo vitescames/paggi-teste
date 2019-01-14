@@ -1,0 +1,870 @@
+2019-01-12 18:18:37,187 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-12 18:27:51,777 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: paggi-teste-api-rest:paggi-teste-api-rest:0.0.1-SNAPSHOT @ C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\pom.xml.
+2019-01-12 18:28:12,061 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:12,109 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:28:12,119 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:12,151 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:28:12,293 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /paggi-teste-api-rest/src
+2019-01-12 18:28:12,296 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /paggi-teste-api-rest/src/test/java because it overlaps with /paggi-teste-api-rest/src
+2019-01-12 18:28:13,761 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:13,879 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:28:13,880 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:14,040 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:28:14,595 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-12 18:28:16,729 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: paggi-teste-api-rest:paggi-teste-api-rest:0.0.1-SNAPSHOT @ C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\pom.xml.
+2019-01-12 18:28:19,934 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:19,951 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:28:20,022 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:20,247 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:28:20,248 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of paggi-teste-api-rest
+2019-01-12 18:28:20,250 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for paggi-teste-api-rest
+2019-01-12 18:28:20,371 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2019-01-12 18:28:20,482 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:20,766 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /paggi-teste-api-rest/src
+2019-01-12 18:28:20,767 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /paggi-teste-api-rest/src/test/java because it overlaps with /paggi-teste-api-rest/src
+2019-01-12 18:28:21,765 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for paggi-teste-api-rest
+2019-01-12 18:28:21,821 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-01-12 18:28:21,938 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:22,012 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:28:22,074 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:28:22,268 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:28:22,304 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of paggi-teste-api-rest
+2019-01-12 18:28:22,304 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for paggi-teste-api-rest
+2019-01-12 18:28:22,383 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:32:28,546 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: paggi-teste-api-rest:paggi-teste-api-rest:0.0.1-SNAPSHOT @ C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\pom.xml.
+2019-01-12 18:33:04,970 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:33:05,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:33:05,050 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:33:05,064 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:33:05,071 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of paggi-teste-api-rest
+2019-01-12 18:33:05,071 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for paggi-teste-api-rest
+2019-01-12 18:33:05,082 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:33:55,766 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:33:55,823 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:33:55,825 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:33:55,836 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:34:07,267 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:34:07,306 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:34:07,307 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:34:07,326 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:35:39,850 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:35:39,877 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:35:39,884 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:35:39,898 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:37:07,553 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:07,755 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:37:07,757 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:07,783 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:37:32,386 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:32,441 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:37:32,464 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:32,497 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:37:42,416 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:42,432 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:37:42,434 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:37:42,486 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:38:18,634 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:38:18,676 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:38:18,686 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:38:18,716 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:38:40,762 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:38:40,779 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:38:40,781 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:38:40,810 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:02,999 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:03,053 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:03,083 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:03,148 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:09,907 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:09,928 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:09,930 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:09,951 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:18,639 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:18,743 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:18,762 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:18,786 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:23,179 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:23,228 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:23,246 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:23,284 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:35,895 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:35,903 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:35,904 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:35,925 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:38,113 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:38,232 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:38,257 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:38,330 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:39:47,215 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:47,242 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:39:47,263 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:39:47,282 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:44:33,821 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:44:33,886 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:44:33,888 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:44:33,977 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:44:56,749 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:44:56,793 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:44:56,804 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:44:56,902 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:45:02,866 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:45:02,913 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:45:02,914 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:45:02,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:47:15,981 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:17,135 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:47:17,158 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:17,248 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:47:46,870 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:47,029 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:47:47,038 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:47,220 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:47:56,951 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:56,965 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:47:56,990 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:47:57,001 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:48:00,328 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:48:00,338 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:48:00,339 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:48:00,375 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:48:25,746 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:48:34,676 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:48:42,229 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:48:42,258 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:53:50,251 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:53:50,383 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:53:50,409 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:53:50,441 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:54:04,440 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:54:04,717 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:54:04,750 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:54:04,793 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:54:57,582 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:54:57,602 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:54:57,613 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:54:57,631 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:55:10,423 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:55:10,433 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:55:10,434 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:55:10,464 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:55:30,781 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:55:30,797 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:55:30,805 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:55:30,820 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:56:16,081 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:16,187 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:56:16,189 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:16,221 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:56:23,589 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:23,616 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:56:23,624 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:23,638 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:56:35,264 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:35,270 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:56:35,271 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:35,283 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 18:56:44,499 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:44,518 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 18:56:44,527 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 18:56:44,546 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:03:48,721 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:03:48,787 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:03:48,788 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:03:48,838 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:04:45,373 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:04:45,622 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:04:45,647 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:04:45,668 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:05:13,798 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:13,884 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:05:13,899 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:13,931 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:05:18,386 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:18,405 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:05:18,406 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:18,444 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:05:35,739 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:35,801 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:05:35,814 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:35,848 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:05:45,948 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:45,970 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:05:45,971 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:05:46,075 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:06:10,026 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:10,042 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:06:10,052 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:10,080 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:06:15,057 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:15,069 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:06:15,070 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:15,083 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:06:48,769 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:48,819 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:06:48,845 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:48,879 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:06:51,035 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:51,062 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:06:51,064 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:06:51,161 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:07:26,150 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:07:26,246 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:07:26,303 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:07:26,324 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:08:31,592 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:08:31,619 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:08:31,621 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:08:31,733 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:08:39,797 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:08:39,810 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:08:39,816 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:08:39,841 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:09:06,386 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:06,426 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:09:06,428 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:06,522 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:09:19,452 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:19,486 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:09:19,496 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:19,514 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:09:41,101 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:41,136 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:09:41,288 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:09:41,307 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:04,617 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:04,640 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:04,647 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:04,662 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:10,527 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:10,542 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:10,543 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:10,559 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:15,922 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:15,940 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:15,949 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:15,975 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:20,965 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:20,973 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:20,974 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:21,006 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:45,458 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:45,485 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:45,493 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:45,511 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:10:51,138 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:51,147 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:10:51,148 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:10:51,170 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:11:32,821 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:11:32,879 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:11:32,899 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:11:32,929 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:12:09,812 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:09,828 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:12:09,830 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:09,864 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:12:27,461 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:27,497 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:12:27,514 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:27,581 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:12:58,226 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:58,237 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:12:58,238 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:12:58,259 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:13:08,611 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:08,637 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:13:08,653 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:08,677 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:13:13,977 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:13,984 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:13:13,985 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:14,000 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:13:36,590 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:36,607 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:13:36,615 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:36,628 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:13:42,532 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:42,546 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:13:42,547 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:42,577 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:13:47,740 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:47,765 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:13:47,781 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:13:47,800 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:00,473 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:00,498 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:00,499 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:00,548 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:04,382 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:04,417 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:04,432 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:04,464 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:13,826 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:13,849 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:13,850 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:13,873 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:19,394 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:19,419 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:19,431 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:19,446 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:21,675 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:21,687 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:21,689 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:21,723 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:23,856 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:23,899 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:23,913 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:23,933 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:31,529 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:31,560 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:31,563 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:31,588 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:33,955 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:33,971 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:33,984 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:34,015 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:14:59,540 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:59,549 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:14:59,550 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:14:59,584 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:15:10,210 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:10,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:15:10,253 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:10,299 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:15:21,724 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:21,736 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:15:21,738 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:21,788 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:15:38,320 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:38,335 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:15:38,344 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:38,369 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:15:54,348 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:54,363 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:15:54,364 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:15:54,397 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:02,882 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:02,920 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:02,938 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:02,961 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:08,244 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:08,253 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:08,255 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:08,278 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:13,057 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:13,081 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:13,090 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:13,116 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:41,153 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:41,163 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:41,164 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:41,186 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:52,091 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:52,112 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:52,120 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:52,137 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:16:56,629 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:56,638 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:16:56,639 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:16:56,654 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:17:23,999 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:24,015 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:17:24,022 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:24,038 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:17:45,993 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:46,020 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:17:46,022 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:46,052 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:17:52,861 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:52,874 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:17:52,883 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:17:52,894 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:18:06,924 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:06,931 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:18:06,932 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:06,947 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:18:10,541 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:10,565 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:18:10,589 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:10,615 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:18:57,636 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:57,642 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:18:57,642 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:18:57,660 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:19:07,139 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:19:07,183 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:19:07,197 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:19:07,238 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:19:29,741 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:19:29,748 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:19:29,749 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:19:29,763 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:20:54,164 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:20:54,175 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:20:54,187 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:20:54,208 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:21:01,613 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:01,625 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:21:01,626 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:01,712 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:21:11,138 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:11,167 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:21:11,175 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:11,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:21:17,128 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:17,147 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:21:17,148 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:17,179 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:21:28,168 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:28,191 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:21:28,203 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:21:28,229 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:24:14,645 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:14,651 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:24:14,651 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:14,663 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:24:18,394 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:18,410 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:24:18,418 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:18,445 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:24:33,804 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:33,833 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:24:33,834 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:24:33,878 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:25:34,770 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:34,789 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:25:34,800 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:34,860 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:25:47,560 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:47,574 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:25:47,576 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:47,596 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:25:51,741 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:51,769 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:25:51,781 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:51,811 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:25:57,029 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:57,038 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:25:57,039 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:57,055 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:25:59,307 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:59,398 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:25:59,410 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:25:59,436 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:26:12,916 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:12,934 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:26:12,936 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:12,955 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:26:16,404 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:16,434 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:26:16,453 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:16,476 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:26:28,269 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:28,276 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:26:28,278 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:28,304 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:26:32,142 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:32,184 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:26:32,198 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:32,215 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:26:43,842 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:43,852 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:26:43,853 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:26:43,871 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:27:04,163 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:04,179 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:27:04,188 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:04,199 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:27:25,667 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:25,677 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:27:25,678 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:25,690 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:27:35,055 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:35,097 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:27:35,117 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:35,159 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:27:55,728 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:55,741 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:27:55,742 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:27:55,765 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:28:26,495 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:26,518 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:28:26,535 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:26,567 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:28:38,214 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:38,222 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:28:38,223 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:38,243 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:28:56,277 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:56,291 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:28:56,299 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:28:56,318 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:29:29,399 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:29,440 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:29:29,442 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:29,473 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:29:32,366 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:32,398 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:29:32,409 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:32,441 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:29:35,945 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:35,951 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:29:35,952 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:29:35,987 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:21,038 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:21,087 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:21,105 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:21,164 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:23,824 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:23,835 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:23,836 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:23,850 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:27,067 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:27,097 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:27,108 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:27,123 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:30,710 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:30,716 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:30,717 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:30,732 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:34,659 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:34,675 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:34,684 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:34,698 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:36,802 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:36,809 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:36,810 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:36,828 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:38,965 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:38,984 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:39,014 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:39,069 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:42,701 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:42,714 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:42,715 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:42,743 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:49,789 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:49,804 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:49,817 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:49,847 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:30:55,739 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:55,747 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:30:55,748 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:30:55,772 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:33:23,533 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b10/hk2-utils-2.4.0-b10-sources.jar
+2019-01-12 19:33:23,979 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b10/hk2-utils-2.4.0-b10-sources.jar
+2019-01-12 19:33:24,192 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.hk2:hk2-utils:2.4.0-b10
+2019-01-12 19:33:24,686 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:33:24,719 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:33:24,740 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:33:24,752 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:12,576 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:12,586 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:12,588 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:12,602 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:32,547 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:32,593 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:32,607 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:32,619 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:34,451 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:34,465 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:34,466 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:34,516 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:41,118 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:41,131 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:41,137 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:41,142 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:43,388 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:43,413 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:43,415 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:43,471 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:48,912 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:48,934 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:48,943 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:48,950 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:56,715 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:56,737 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:56,738 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:56,744 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:35:59,210 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:59,229 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:35:59,244 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:35:59,262 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:36:27,947 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:36:28,025 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:36:28,027 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:36:28,044 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:38:59,646 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:38:59,663 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:38:59,716 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:38:59,728 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:41:48,443 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:41:48,451 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:41:48,452 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:41:48,458 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:42:38,468 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:42:38,489 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:42:38,497 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:42:38,507 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:42:47,175 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:42:47,192 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:42:47,193 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:42:47,209 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:44:08,088 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:44:08,115 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:44:08,132 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:44:08,142 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:45:20,293 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:45:20,306 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:45:20,307 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:45:20,319 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:45:34,945 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:45:34,976 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:45:34,987 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:45:34,995 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:46:47,820 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:46:47,826 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:46:47,827 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:46:47,832 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:46:53,004 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:46:53,016 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:46:53,022 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:46:53,027 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:47:31,653 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:31,668 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:47:31,669 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:31,678 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:47:50,064 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:50,078 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:47:50,083 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:50,089 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:47:52,758 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:52,768 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:47:52,769 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:52,776 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:47:57,427 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:57,520 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:47:57,552 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:47:57,567 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:50:36,354 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:50:36,377 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:50:36,378 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:50:36,393 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:51:28,425 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:51:28,440 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:51:28,446 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:51:28,452 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:52:39,183 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:52:39,200 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:52:39,200 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:52:39,209 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:53:30,044 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:53:30,054 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:53:30,061 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:53:30,073 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:55:06,262 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:55:06,275 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:55:06,276 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:55:06,295 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 19:59:04,886 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:59:04,917 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 19:59:04,929 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 19:59:04,937 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:01:02,659 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:01:02,686 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:01:02,687 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:01:02,699 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:01:07,665 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:01:07,688 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:01:07,704 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:01:07,725 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:02:08,286 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:02:08,294 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:02:08,295 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:02:08,304 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:05:59,509 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:05:59,567 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:05:59,576 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:05:59,584 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:07:31,267 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:31,283 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:07:31,284 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:31,295 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:07:49,966 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:50,003 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:07:50,025 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:50,041 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:07:53,854 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:53,872 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:07:53,873 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:07:53,885 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:08:45,207 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:45,224 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:08:45,232 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:45,240 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:08:48,435 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:48,467 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:08:48,468 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:48,477 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:08:52,498 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:52,540 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:08:52,560 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:08:52,599 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:11:03,405 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:11:03,425 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:11:03,426 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:11:03,442 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:14:52,977 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:14:53,072 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:14:53,103 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:14:53,122 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:21:04,910 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:04,921 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:21:04,921 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:04,930 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:21:11,581 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:11,601 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:21:11,616 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:11,632 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:21:17,683 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:17,691 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:21:17,692 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:21:17,701 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:25:07,052 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:25:07,079 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:25:07,090 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:25:07,100 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:25:17,511 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:25:17,517 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:25:17,518 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:25:17,525 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:20,046 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:20,056 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:20,062 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:20,068 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:30,757 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:30,763 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:30,763 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:30,769 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:34,359 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:34,370 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:34,376 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:34,384 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:41,611 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:41,625 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:41,626 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:41,637 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:44,262 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:44,299 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:44,312 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:44,326 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:47,513 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:47,519 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:47,520 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:47,525 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:50,958 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:50,984 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:51,001 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:51,024 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:28:55,237 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:55,245 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:28:55,245 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:28:55,251 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:03,157 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:03,180 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:03,191 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:03,206 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:10,087 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:10,103 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:10,104 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:10,113 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:12,766 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:12,780 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:12,787 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:12,793 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:16,318 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:16,324 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:16,325 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:16,331 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:20,197 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:20,209 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:20,214 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:20,222 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:33,589 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:33,595 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:33,596 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:33,605 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:38,679 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:38,692 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:38,699 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:38,706 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:32:50,953 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:50,959 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:32:50,959 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:32:50,965 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:33:00,020 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:33:00,034 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:33:00,040 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:33:00,046 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 20:33:10,827 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:33:10,832 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 20:33:10,833 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 20:33:10,839 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-12 21:13:26,301 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-12 21:13:35,548 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 21:13:35,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-12 21:13:35,566 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-12 21:13:35,575 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vitho\Desktop\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-13 21:03:34,817 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-01-13 21:04:00,483 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-13 21:04:00,547 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-13 21:04:00,553 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-13 21:04:00,567 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:25:05,321 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:05,379 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:25:05,382 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:05,391 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:25:16,242 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:16,249 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:25:16,251 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:16,257 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:25:29,960 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:29,970 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:25:29,972 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:25:30,060 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:27:12,486 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:12,504 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:27:12,507 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:12,528 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:27:25,366 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:25,382 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:27:25,390 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:25,409 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:27:35,750 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:35,792 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:27:35,795 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:35,879 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:27:41,946 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:41,970 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:27:41,989 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:42,007 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:27:45,955 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:45,969 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:27:45,971 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:27:45,995 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:28:04,939 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:04,962 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:28:04,971 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:04,981 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:28:29,229 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:29,237 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:28:29,239 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:29,251 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:28:34,446 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:34,466 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:28:34,486 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:28:34,520 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources
+2019-01-14 01:29:00,628 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:29:00,636 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\main\resources
+2019-01-14 01:29:00,637 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-14 01:29:00,651 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\paggi-teste\paggi-teste-api\workspace\paggi-teste-api-rest\src\test\resources

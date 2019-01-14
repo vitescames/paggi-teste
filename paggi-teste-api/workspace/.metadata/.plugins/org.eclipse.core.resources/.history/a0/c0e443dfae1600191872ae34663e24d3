@@ -1,0 +1,5 @@
+package br.com.paggi.api.dao.impl;
+
+public abstract class GenericDAOImpl<T,K> implements GenericDAO<T, K>{
+
+}

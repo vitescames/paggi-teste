@@ -1,0 +1,71 @@
+package br.com.paggi.api.entity;
+
+import java.math.BigInteger;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
+
+@Entity(name="cartao_credito")
+public class CartaoCredito {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int id;
+	
+	@Column(nullable=false)
+	private BigInteger number;
+	
+	@Column(name="holder_name", nullable=false)
+	private String holderName;
+	
+	@Column(nullable=false)
+	private int cvv;
+	
+	public CartaoCredito(BigInteger number, String holderName, int cvv) {
+		this.number = number;
+		this.holderName = holderName;
+		this.cvv = cvv;
+	}
+	
+	public CartaoCredito() {
+		
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public long getNumber() {
+		return number;
+	}
+
+	public void setNumber(long number) {
+		this.number = number;
+	}
+
+	public String getHolderName() {
+		return holderName;
+	}
+
+	public void setHolderName(String holderName) {
+		this.holderName = holderName;
+	}
+
+	public int getCvv() {
+		return cvv;
+	}
+
+	public void setCvv(int cvv) {
+		this.cvv = cvv;
+	}
+	
+
+}

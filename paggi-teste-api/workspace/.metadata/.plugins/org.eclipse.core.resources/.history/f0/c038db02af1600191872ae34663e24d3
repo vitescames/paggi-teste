@@ -1,0 +1,12 @@
+package br.com.paggi.api.dao;
+
+public interface GenericDAO <T,K> {
+
+	void cadastrar(T entidade);
+	void atualizar(T entidade);
+	void remover(K chave);
+	T buscar(K chave);
+	
+	void commit();
+	
+}

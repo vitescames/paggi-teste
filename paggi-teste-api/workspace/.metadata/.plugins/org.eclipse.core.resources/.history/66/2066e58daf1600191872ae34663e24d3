@@ -1,0 +1,30 @@
+package br.com.paggi.api.resource;
+
+import javax.persistence.EntityManager;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import br.com.paggi.api.dao.CartaoCreditoDAO;
+import br.com.paggi.api.entity.CartaoCredito;
+
+@Path("/cartao-credito")
+public class CartaoCreditoResource {
+	
+	private CartaoCreditoDAO dao;
+	
+	public CartaoCreditoResource() {
+		EntityManager em = EntityManagerFactorySingleton.getInstance().createEntityManager();
+		dao = new CartaoCreditoDAOImpl(em);
+	}
+	
+	@GET
+	@Path("{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public CartaoCredito getCreditCard(CartaoCredito cartao, @PathParam("id") int codigo){
+		
+	}
+
+}

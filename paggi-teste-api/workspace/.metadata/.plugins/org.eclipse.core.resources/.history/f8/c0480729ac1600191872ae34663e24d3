@@ -1,0 +1,22 @@
+package br.com.paggi.api.resource;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path("/cartao-credito")
+public class CartaoCreditoResource {
+	
+	public CartaoCreditoResource() {
+		
+	}
+	
+	@GET
+	@Path("{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public String getCreditCard(CartaoCredito cartao, @PathParam("id")){
+		
+	}
+
+}

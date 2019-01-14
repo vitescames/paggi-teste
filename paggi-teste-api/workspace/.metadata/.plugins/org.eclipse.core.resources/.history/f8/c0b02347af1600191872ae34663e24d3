@@ -1,0 +1,9 @@
+package br.com.paggi.api.dao.impl;
+
+public class CartaoCreditoDAOImpl extends GenericDAOImpl<Filme, Integer> implements FilmeDAO{
+	
+	public FilmeDAOImpl(EntityManager em) {
+		super(em);
+	}
+
+}

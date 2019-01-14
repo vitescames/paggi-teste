@@ -1,0 +1,11 @@
+127.0.0.1 - - [13/Jan/2019:21:06:22 -0200] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:06:50 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:07:04 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:07:21 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:07:26 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/2 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:07:38 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/4 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:09:13 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:09:23 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:11:23 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:11:38 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [13/Jan/2019:21:12:17 -0200] "GET /paggi-teste-api-rest/api/cartao-credito/1 HTTP/1.1" 200 69

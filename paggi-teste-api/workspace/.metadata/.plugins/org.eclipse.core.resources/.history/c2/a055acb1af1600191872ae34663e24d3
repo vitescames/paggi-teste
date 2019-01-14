@@ -1,0 +1,7 @@
+package br.com.paggi.api.entity;
+
+@Entity
+@SequenceGenerator(name="filme", sequenceName="SQ_T_FILME", allocationSize=1)
+public class CartaoCredito {
+
+}
